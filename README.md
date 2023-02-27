@@ -34,7 +34,7 @@
 
 - 2. Data Cleaning - In this i had fillered out required columns and also removed null values from data.
 
-- 3.Data Visualization -   this is the Proccess in which i had found out the trends and correlations in our data by representing it pictorially.for visualization we use different libraries such as Matplotlib and Seaborn.
+- 3. Data Visualization -   this is the Proccess in which i had found out the trends and correlations in our data by representing it pictorially.for visualization we use different libraries such as Matplotlib and Seaborn.
 
 ### Result and Insights:
 
